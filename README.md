@@ -13,7 +13,8 @@ Python's various libraries and modules are the foundation for this entire projec
 * Tkinter
 # Utilities
 Once the installation is finished (download or cloning), go to the "Vm-utilipredict" folder and follow the below simple guidelines to execute main_Read_Linear.py effectively (either write the code in the command line or a Python editor).
->>> from Vm-utilipredict import main_Read_Linear
+![image](https://github.com/Deep-Saha-401/vm-utilipredict/assets/84536037/fed872c5-3a32-447c-be5c-cc766a4d4409)
+
 # Fitness Function
 Percentage Error=( Actual Value/Actual Value−Predicted Value)×100
 ## You will see the following similar Python GUI Interface To Enter Values  :
